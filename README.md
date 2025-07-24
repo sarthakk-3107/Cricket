@@ -6,6 +6,7 @@ Predicting win probability during an ODI cricket match using real ball-by-ball d
 A question that arises in every nail-biting cricket match. This project aims to answer it using real match data and machine learning — not just intuition.
 
 🧠 ML Workflow
+
 ✅ Step 1: Data Collection
 Parsed 20+ raw JSON files containing ball-by-ball data from actual ODI matches.
 Converted data into structured CSV format with match context (venue, inning, over, batter, bowler, etc.)
